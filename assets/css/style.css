@@ -415,7 +415,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: 100vh;
   background: linear-gradient(45deg,#F53803, #F5D020 100%), url("../img/hero-bg.jpg") center center no-repeat;
-  background-image: url("../img/bg2.png");
+  background-image: url("../img/bg4.png");
   background-size: cover;
 }
 
@@ -555,7 +555,8 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: linear-gradient(45deg,#F53803, #F5D020 100%);;
+  
+  background-image: url(../img/bg4.png);
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -627,6 +628,7 @@ section {
 --------------------------------------------------------------*/
 .counts {
   background: linear-gradient(45deg,#F53803, #F5D020 100%), url("../img/counts-bg.png") center center no-repeat;
+  background-image: url(../img/bg4.png);
   padding: 80px 0 60px 0;
 }
 
@@ -1491,6 +1493,7 @@ section {
   color: #fff;
   font-size: 14px;
   background: linear-gradient(45deg,#F53803, #F5D020 100%), url("../img/hero-bg.jpg") center center no-repeat;
+  background-image: url(../img/bg4.png);
   background-size: cover;
 }
 
